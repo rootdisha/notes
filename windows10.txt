@@ -1,0 +1,9 @@
+#### super basic thingies
+
+Ctrl+windows+left/right 
+= switch between virtual desktops
+
+windows + left/right/up/down  
+= split screen
+
+win+Shift+S : take snippet

@@ -1,0 +1,5 @@
+npm test -- --verbose : to list all test cases (unless package.json has this setting)
+
+JSON.stringify(obj, null, 2) - pretty format deep print
+
+

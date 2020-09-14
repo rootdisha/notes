@@ -1,0 +1,12 @@
+#### Sublime
+
+Select text > Ctrl+J 
+= vertical list to horizontal
+
+Ctrl+F delimiter > Alt+Enter > Shift+left right > Enter 
+= horizontal list to vertical
+
+Select lines > Ctrl+Shift+L 
+= multi selection multi cursor at EOL. / split selection into lines. useful in creating string arrays.
+
+

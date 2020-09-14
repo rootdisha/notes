@@ -1,0 +1,2 @@
+###### Dev Tools on Chrome browser
+Ctrl+Shift+J > vertical ... > More Tools > Rendering || optimal is 60fps

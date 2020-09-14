@@ -1,0 +1,10 @@
+##### VSCode
+
+Ctrl+B = toggle left pane
+Ctrl+Shift+P = show command pallette
+Ctrl+J = toggle panel (terminal etc)
+Ctrl+Shift+` = new terminal  
+View > Appearance > Move sidebar/panel to right
+Ctrl+Shift+F/H = global find/replace
+Shift+Alt+F = Format document
+

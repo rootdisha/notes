@@ -1,0 +1,6 @@
+// String manipulations
+
+// For a string s
+s.concat(s2)  // concatenates s2 with s without changing s. returns concatenated string. do s = s.concat(s2) to retain concatenation
+s.charAt(i)   // returns character at ith position. i is index in string. 
+s.charCodeAt(i) // returns character code (integer) at ith position

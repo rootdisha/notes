@@ -1,0 +1,9 @@
+- limits.h has all min max values of data types
+- #include <stdio.h>
+- sizeof(char) = 1. so doing that is redundant.
+- strlen(s) gives the length of string/char arr s.
+- strcpy(s1, s2) copies string s2 to char array s1
+- always call free(x) for every x=malloc(...)
+- % is the modulo binary operator
+- isalpha(c) returns 0 if NOT a-zA-Z. nonzero otherwise. #include <ctype.h>
+- isnum(c) returns 0 if NOT 0-9. nonzero otherwise. #include <ctype.h>

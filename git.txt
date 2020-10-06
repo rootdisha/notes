@@ -1,5 +1,8 @@
 ########### GIT ###########
 
+git config --global --list             : Lists all global configuration settings
+git config --list 		       : Lists all config settings for current repo
+
 git remote update origin --prune  : To update remote branch list. 
 git branch -vv | findstr "gone]" : Lists all local branches that are no longer in remote
 git remote add origin <origin> - add origin

@@ -32,6 +32,7 @@ git commit --amend     ---- commit only exists in your local repo & not been pus
 
 git log --oneline --graph --decorate : pretty log
 git log --follow <path to file>: history beyond renames/refactors
+git log --graph --pretty=format:'%C(auto)%h%d (%cr) %cn <%ce> %s'
 
 ### Stashing
 git stash [save <name>]

@@ -58,3 +58,20 @@
 ###### Notes
 
 - Only basic options of important commands are discussed above. Feel free to explore, ask. I would recommend Github if you want to learn - it is not behind a VPN. It is free and on the internet. Of course **do not** use company IP code to test things there.
+
+
+---------
+
+- .gitignore
+- local git repo
+- git config --global --edit
+
+converted proj folder into a git repository (local)
+git init
+.gitnore edit
+.gitattributes
+git add .gitignore
+git commit -am "   "
+git add *
+git commit -am " "
+

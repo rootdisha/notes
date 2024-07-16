@@ -7,6 +7,8 @@ git remote -v   : List all remote urls
 git remote rename origin old_origin        : Renames origin to "old_origin" (or anything given). Usually used while updating origin to a new remote url.
 git remote add <remote name> <remote url>  : Adds a new remote <remote name> with given remote url. Usually done to add an origin
     ex: git remote add origin <repo url to be used as origin>
+git remote remove <remote name>		: Removes remote <remote name> which exists
+    ex: git remote remove origin # removes currently set origin remote
 
 git remote update origin --prune  : To update remote branch list. 
 git branch -vv | findstr "gone]" : Lists all local branches that are no longer in remote

@@ -29,6 +29,10 @@ git pull - fetch and merge remote changes
 git pull origin <branch> - pulls <branch> commits into current branch and merges.
 git merge <another_branch> - merge another branch to active branch
 
+# Mirroring: to pull changes from original repo from which mirroring was done:
+git pull <url of other repo> <other repo branch>:<current repo branch> 
+   ex: git pull https://github.com/obviyus/SuperSeriousBot.git master:main
+
 git commit --amend     ---- commit only exists in your local repo & not been pushed
 
 
